@@ -11,21 +11,21 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Lorem ipsum dolor sit, amet consectetur adipisicing.',
+    title: 'Ecommerce Website',
     github: 'https://github.com',
     demo: 'https://dribbble.com'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Lorem ipsum dolor sit, amet consectetur adipisicing.',
+    title: 'TimeStamp Website.',
     github: 'https://github.com',
     demo: 'https://dribbble.com'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Lorem ipsum dolor sit, amet consectetur adipisicing.',
+    title: 'My Portfolio.',
     github: 'https://github.com',
     demo: 'https://dribbble.com'
   },

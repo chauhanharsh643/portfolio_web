@@ -31,7 +31,7 @@
 
 .about__cards {
     display: grid;
-    grid-template-columns: repeat(3, lfr);
+    grid-template-columns: repeat(3, 0.7fr);
     gap: 1.5rem;
 }
 .about__card{
@@ -102,6 +102,6 @@
     }
 
     .about__content p {
-        margin: 1.5rem 0;
+        margin: 1.5rem;
     }
 }
